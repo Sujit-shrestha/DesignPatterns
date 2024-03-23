@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <link rel="stylesheet" href="path/to/styles.css">
 </head>
 <body>
 
@@ -20,10 +19,12 @@
     //here '.' is important
 #### : Check if the image is built in the docker desktop
 
-#### 4: run the image using the following command:
+##  Build the dockerfile :
+
+#### 1: run the image using the following command:
     docker run -p 8002:8000 pattern_image 
 
-#### 5: Access the code throug localhost:8002
+#### 2: Access the code throug localhost:8002
 
 </body>
 </html>

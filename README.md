@@ -19,7 +19,7 @@
     //here '.' is important
 #### 3: Check if the image is built in the docker desktop
 
-##  Build the dockerfile :
+##  Run the image :
 
 #### 1: run the image using the following command:
     docker run -p 8002:8000 pattern_image 

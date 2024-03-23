@@ -3,16 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Markdown with Custom Font Styles</title>
+    
     <link rel="stylesheet" href="path/to/styles.css">
 </head>
 <body>
 
-# DesignPatterns
 
 # How to run the file  : 
 
-#  Build the dockerfile : 
+##  Build the dockerfile : 
 
 #### 1 : Goto the place here Dockerfile exists
 
